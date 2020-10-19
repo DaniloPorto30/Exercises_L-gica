@@ -11,11 +11,13 @@ vermelho, verde, amarelo, amarelo e roxo, respectivamente.
 
 #Color screen 😉
 
-![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/red.png?raw=true)
-![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/green.png?raw=true)
-![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/yellow.png?raw=true)
-![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/blue.png?raw=true)
-![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/purple.png?raw=true)
+![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/Trocar_cor_do_fundo/red.png?raw=true)
+![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/Trocar_cor_do_fundo/green.png?raw=true)
+
+![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/Trocar_cor_do_fundo/yellow.png?raw=true)
+![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/Trocar_cor_do_fundo/blue.png?raw=true)
+
+![alt text](https://github.com/DaniloPorto30/Exercises_Logic/blob/master/Trocar_cor_do_fundo/purple.png?raw=true)
 
 ----
 Using HTML / CSS/ JAVA SCRIPT
